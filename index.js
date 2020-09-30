@@ -1,6 +1,6 @@
 'use strict';
 
-const api_key = 'ENTER API KEY';
+const api_key = 'W8DxXIf8BprQ5kV2NocauuIkaoKM7V8BgNvmnK4z';
 const baseUrl = 'https://developer.nps.gov/api/v1/parks';
 
 let form = document.querySelector('form');
